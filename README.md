@@ -19,4 +19,4 @@ google-api-python-client
 ## Current Calendars
 Currently this repository supports scraping the following websites for events:
 
-- [CREA](crea.nl): the cultural student center of the University of Amsterdam ([calendar](https://calendar.google.com/calendar/embed?src=1if765nauiejb3goqgdij4jk1k%40group.calendar.google.com&ctz=Europe/Amsterdam))
+- [CREA](http://www.crea.nl): the cultural student center of the University of Amsterdam ([calendar](https://calendar.google.com/calendar/embed?src=1if765nauiejb3goqgdij4jk1k%40group.calendar.google.com&ctz=Europe/Amsterdam))
