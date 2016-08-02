@@ -11,9 +11,9 @@ Scrape events from websites and add them to a Google Calendar.
 ## Requirements
 
 ```
-google-api-python-client
 bs4
-dateutil.relativedelta
+dateutil
+google-api-python-client
 ```
 
 ## Current Calendars
